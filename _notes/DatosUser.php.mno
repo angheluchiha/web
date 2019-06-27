@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_telefono" value="name:id_cod_telefono;datatype:int,name:telefono;datatype:int" />
+	<infoitem key="UD_DatosUsuario" value="name:id_user;datatype:int,name:nom_user;datatype:string,name:apell_user;datatype:string,name:email_user;datatype:string,name:pass_user;datatype:string,name:img_user;datatype:string,name:cod_telefono_user;datatype:int,name:telefono_user;datatype:int,name:cod_telefono_local_user;datatype:int,name:telefono_local_user;datatype:int,name:dirrecion_user;datatype:string,name:st_user;datatype:int,name:id_nivel_user;datatype:int" />
+</info>

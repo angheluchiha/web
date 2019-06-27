@@ -1,0 +1,131 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css?family=Lemonada|Roboto');
+@media (max-width:767px){
+	.nuevos{
+	background-color:#1B5662;
+	padding: 10px;
+	font-size: 18px;
+	color:#DCDCDC;
+	font-weight:bold;
+	letter-spacing: 3px;
+	text-transform:uppercase;
+	}
+.marginbajo{
+	margin-bottom: 15px;
+		
+	}
+.mivi{
+	padding: 15px;
+	margin: 15px;
+	}
+.img_lg{
+	border-bottom: 2px solid #D78114;
+	margin-bottom:20px;
+	}	
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    *font-family: 'Roboto', sans-serif;
+    font-family: 'Lemonada', cursive;
+}
+
+body{
+    background: #78a7be;
+    background-image: url(../img/logo/bg2.png);
+    background-attachment: fixed;
+    background-position: center;
+}
+@media (min-width:768px){
+	.nuevos{
+	margin-top: 15px;
+	background-color:#1B5662;
+	padding: 10px;
+	font-size: 26px;
+	color:#DCDCDC;
+	font-weight:bold;
+	letter-spacing: 5px;
+	text-transform:uppercase;
+	}
+#alertas{
+	width: 350px;
+	position: absolute;
+	right: 1px;
+	bottom: 1px;
+	}
+.img_lg{
+	border-right: 2px solid #D78114;
+	padding-right: 20px;
+	}
+}
+.pagination > li > a, .pagination > li > span, 
+.pagination > li > a, .pagination > li > span{
+	background-color: transparent;
+	color:#2889A6;
+	}
+.pagination > li > a:hover, .pagination > li > span:hover, 
+.pagination > li > a:focus, .pagination > li > span:focus{
+	background-color: #2889A6;
+	color:#FFF;
+	}
+.mayusculas{
+	text-transform:uppercase;
+	color: #4A4A4A;
+	font-size:20px;
+	}
+.justificado{
+	text-align:justify;
+	}
+.form-contacto{
+	background-color:#f2f2f2;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	border: 1px solid #C4C4C4;
+	border-radius: 5px;
+	}
+.mivi{
+	background-color:#E5E5E5;
+	border-radius: 5px;
+	border: 1px solid #D1D1D1;
+	}
+.titu_cat{
+	background-color: #FFBDBF;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	color: #FFF;
+	font-weight:bold;
+	text-shadow: 1px 1px 1px #CCC;
+	}
+.titu_prod{
+	color:#545455;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	}
+.precio{
+	color:#B80104;
+	font-size:16px;
+	font-weight:bold;
+	}
+.existencia{
+	color: #295C00;
+	font-size:16px;
+	font-weight:bold;
+	}
+.prod_nuevo{
+	margin-top: 20px;
+    }
+
+.badge{
+		background-color:#f99a20;
+		font-size:18px;
+    }
+	.caption >h4{
+		font-weight:bold;
+		color:#424242;
+    }
+
+
+

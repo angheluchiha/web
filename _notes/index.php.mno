@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_DatosMenuNuevos" value="name:id_prod;datatype:int,name:nom_pro;datatype:string,name:min_desc_prod;datatype:string,name:desc_pro;datatype:blob,name:prec_prod;datatype:real,name:cant_prod;datatype:int,name:img_prod;datatype:string,name:id_cat_prod;datatype:int" />
+</info>
